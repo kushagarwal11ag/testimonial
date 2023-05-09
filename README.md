@@ -30,7 +30,7 @@ Desktop screenshot
 
 Mobile screenshot
 
-![Desktop](screenshot/mobile.png)
+![Mobile](screenshot/mobile.png)
 
 ### Links
 
