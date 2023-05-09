@@ -26,7 +26,7 @@ Users should be able to:
 
 Desktop screenshot
 
-![Desktop](screenshot/desktop.png)
+![screenshot/desktop.png](Desktop)
 
 Mobile screenshot
 
